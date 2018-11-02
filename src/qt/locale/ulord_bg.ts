@@ -3792,7 +3792,7 @@ for example: alertnotify=echo %%s | mail -s "Ulord Alert" admin@foo.com
     </message>
     <message>
         <source>Copyright (C) 2014-%i The Dash Core Developers</source>
-        <translation>Запазени права (C) 2014-%i Ulord Core разработчиците</translation>
+        <translation>Запазени права (C) 2014-%i Dash Core разработчиците</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
